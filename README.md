@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Sam Popham
 
-I'm a Computer Science student at the **University of Bath** (2024–2028) with a passion for  
-**software development, interactive technologies, computer graphics, and AI**.  
-I love building things that blend creativity with technical depth - from raytracers to full-stack web apps.
+I'm a Computer Science student at the **University of Bath** (2024–2028) with a passion for  **software development, interactive technologies, computer graphics, and AI**. I love building things that blend creativity with technical depth - from raytracers to full-stack web apps.
 
 ---
 
