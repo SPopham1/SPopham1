@@ -65,10 +65,4 @@ Features a structured GUI, API integration, and asynchronous data handling.
 
 ---
 
-## Contact
-
-**Email:** skpp21@bath.ac.uk
-
----
-
 *Thanks for visiting my profile.*
