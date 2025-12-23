@@ -1,4 +1,4 @@
-# Visit My website [here](https://spopham1.github.io/)
+# [Visit My website](https://spopham1.github.io/)
 
 ![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPopham1&show_icons=false&theme=default&hide_title=true)
 
