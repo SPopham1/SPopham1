@@ -1,6 +1,4 @@
- #  [VISIT MY WEBSITE](https://spopham1.github.io/)
-
- ## 🧰 Tech Stack
+##  [VISIT MY WEBSITE](https://spopham1.github.io/)
 
 ### Languages
 <p align="left">
