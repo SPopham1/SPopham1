@@ -1,6 +1,6 @@
 ╔══════════════════════════════════════════════╗
-║                                              ║
-║              [VISIT MY WEBSITE](https://spopham1.github.io/)                ║
-║        [https://spopham1.github.io/](https://spopham1.github.io/)           ║
-║                                              ║
+
+[VISIT MY WEBSITE](https://spopham1.github.io/)
+[https://spopham1.github.io/](https://spopham1.github.io/)
+
 ╚══════════════════════════════════════════════╝
