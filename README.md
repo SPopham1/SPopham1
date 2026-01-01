@@ -1,5 +1,6 @@
 # [Visit My website](https://spopham1.github.io/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPopham1&show_icons=true&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=SPopham1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPopham1&layout=compact)
+![Followers](https://img.shields.io/github/followers/SPopham1)
+![Stars](https://img.shields.io/github/stars/SPopham1)
