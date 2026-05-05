@@ -1,7 +1,7 @@
 ## [VISIT MY WEBSITE](https://spopham1.github.io/)
 
-<p align="left">
-  <strong>Languages:</strong>
+<p><strong>Languages:</strong></p>
+<p style="white-space: nowrap;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" height="32" alt="C++"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" height="32" alt="Java"/>
@@ -12,8 +12,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="32" height="32" alt="Haskell"/>
 </p>
 
-<p align="left">
-  <strong>Tools:</strong>
+<p><strong>Tools:</strong></p>
+<p style="white-space: nowrap;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" height="32" alt="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="32" height="32" alt="Unity"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="32" height="32" alt="Blender"/>
